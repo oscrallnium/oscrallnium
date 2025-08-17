@@ -1,8 +1,8 @@
 - 👋 You can call me Allen
 - 😄 I'm a Mobile Software Engineer and specializes on native iOS development
 - 👀 My hobbies are sea diving, motorcycle riding, and collecting academic books and stickers
-- 🌱 I’m currently studying iOS Human Interface Guidelines for application development
-- 💞️ I'm interested on learning ruby on rails, postgre, aws, docker
+- 🌱 I’m currently working for a company and do side-projects
+- 💞️ I'm interested on implementation of custom routing engine on my personal app
 - ⚙️ What I do during my free time: read books, coffee, fix broken appliances
 - 📫 Email: oscrallen@gmail.com
 

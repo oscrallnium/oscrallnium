@@ -1,7 +1,6 @@
 - 👋 You can call me OB
-- 😄 I'm a Software Engineer that specializes in iOS Development, Web Development and Simulation
+- 😄 I'm a Software Engineer that specializes in iOS Development and CFD Simulation
 - 👀 My hobbies are sea diving, motorcycle riding, and collecting academic books and stickers
-- 💞️ I'm interested on implementation of custom routing engine on my personal app
 - ⚙️ What I do during my free time: read books, coffee, fix broken appliances
 - 📫 Email: oscrallen@gmail.com
 
